@@ -14,7 +14,6 @@
 ## 🚧 What I'm Working On
  * Learning full-stack development after being inspired from my latest project
  * Building a full-stack music app
- * Learning C
  * Taking CS-7637: Knowledge Based AI at GTech
  
 ## ℹ️ My Info
