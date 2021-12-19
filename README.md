@@ -1,5 +1,3 @@
-## :v: Hi, I'm Malcolm!
-
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * ⚕️ Currently: Healthcare Data Analyst
