@@ -2,7 +2,7 @@
 
 * ⚕️ Currently: Healthcare Data Analyst
 * 💻 Currently: CS Master Student as Georgia Tech
-* 👀 Seeking Internships or Junior roles in software engineering and data engineering
+* 👀 Seeking Internships or entry-level roles in software engineering and data engineering
 
 
 ## 🖥️ Programming Languages
