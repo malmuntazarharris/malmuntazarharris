@@ -12,9 +12,7 @@
 * HTML & CSS
  
 ## 🚧 What I'm Working On
- * Learning full-stack development after being inspired from my latest project
- * Building a full-stack music app
- * Taking CS-7637: Knowledge Based AI at GTech
+ * Taking Machine Learning for Trading at GTech
  
 ## ℹ️ My Info
 📃 [My Resume](https://drive.google.com/file/d/1e9W1PBxn_XLvND7FIipaCaTKJDnveRCu/view?usp=sharing)
