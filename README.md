@@ -1,7 +1,7 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
 * ⚕️ Currently: Healthcare Data Analyst
-* 💻 Currently: CS Master Student as Georgia Tech
+* 💻 Currently: CS Master Student @ Georgia Tech
 * 👀 Seeking Internships or entry-level roles in software engineering and data engineering
 
 
