@@ -8,7 +8,6 @@
 ## 🖥️ Programming Languages
 * Python
 * SQL
-* Java
 * HTML & CSS
  
 ## 🚧 What I'm Working On
