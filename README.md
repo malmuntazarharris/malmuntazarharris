@@ -1,23 +1,10 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-* ⚕️ Currently: Healthcare Data Analyst
-* 💻 Currently: CS Master Student @ Georgia Tech
-* 👀 Seeking Internships or entry-level roles in software engineering and data engineering
-
-
-## 🖥️ Programming Languages
-* Python
-* SQL
-* HTML & CSS
+*  Currently: Data Engineer at
+*  Currently: CS Master Student @ Georgia Tech
  
 ## 🚧 What I'm Working On
- * Taking Machine Learning for Trading at GTech
- 
-## ℹ️ My Info
-📃 [My Resume](https://drive.google.com/file/d/1e9W1PBxn_XLvND7FIipaCaTKJDnveRCu/view?usp=sharing)
-
-![My's github stats](https://github-readme-stats.vercel.app/api?username=malmuntazarharris&show_icons=true&hide=[%22issues%22]) 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=malmuntazarharris&layout=compact">
+ * A modern data engineering pipeline to analyze NYC Taxi Data
 
 ## 📧 Contact Me At:
 
