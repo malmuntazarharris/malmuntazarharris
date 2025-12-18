@@ -1,6 +1,6 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-*  Currently: Data Engineer at
+*  Currently: Data Engineer at Mastercard
 *  Currently: CS Master Student @ Georgia Tech
  
 ## 🚧 What I'm Working On
